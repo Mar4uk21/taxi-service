@@ -14,9 +14,9 @@ A simple web-application that supports authentication, registration and other CR
 ### Login page:
 * ![img.png](images/Login_Page.png)
 ### Home page:
-* ![img_1.png](images/Home_Page.png)
+* ![img.png](images/Home_Page.png)
 ### Display list of all manufacturers:
-* ![img_2.png](images/List_Manufacturers.png)
+* ![img.png](images/List_Manufacturers.png)
 ## 💻Technologies💻
 * JDK 11
 * Maven 4.0
@@ -25,7 +25,7 @@ A simple web-application that supports authentication, registration and other CR
 * JDBC
 * Javax servlet 4.0.1
 * JSTL 1.2
-* HTML/Css
+* HTML/CSS
 ## 💼Instructions for launching the project 💼
 * Clone this project on your PC
 * Copy data from [init_db.sql](src/main/resources/init_db.sql) to DB
